@@ -1,6 +1,7 @@
 body{
     color: lightslategray;
 }
+
 #full-screen-background-image {
     z-index: -999;
     min-height: 100%;
