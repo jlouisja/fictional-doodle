@@ -115,3 +115,15 @@ margin-left: 20px;
 margin-right: 20px;
 font-size: 15pt;
 }
+a {
+    text-decoration: none;
+}
+a:link {
+    color: lightslategray;
+}
+a:visited{
+    color: lightslategray;
+}
+a:hover{
+    color: #424650;
+}
