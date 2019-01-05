@@ -97,5 +97,6 @@ li.dropdown {
 	margin: 100px auto;
 	color: lightslategray;
     background:black;
+    opacity: 0.6;
     font-family: 'Courier New', Courier, monospace;
 }
